@@ -1,0 +1,19 @@
+{
+    "META": {
+        "repoIcon": "https:\/\/usescarlet.com\/favicon.png",
+        "repoName": "GIRA Repo"
+    },
+    "Games": [
+        {
+            "category": "Music",
+            "bundleID": "com.spotify.client",
+            "down": "https:\/\/github.com\/whoeevee\/EeveeSpotify\/releases\/download\/swift4.6\/EeveeSpotify-4.6-8.9.60.ipa",
+            "appstore": "com.spotify.client",
+            "changelog": "- Fixed popups white background bug on iPad",
+            "version": "4.6",
+            "description": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+            "name": "Eevvee Spotify",
+            "dev": "asdfzxcvbn"
+        }
+    ]
+}
