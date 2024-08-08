@@ -24,6 +24,7 @@
             "dev": "DynamicDust s.r.o.",
             "category": "Games"
             "icon": "https://justkleo.github.io/gira/icons/IMG_9702.png"
+            "bundleID": "com.dynamicdust.CharlieTheSteakHD"
         }
     ]
 }
