@@ -22,8 +22,8 @@
             "down": "https://archive.org/download/charlie-the-steak/Charlie%2C%20the%20Steak%20HD%201.2%20%28642%29%2064-bit%20644917768-838598294%20Cracked.ipa",
             "version": "1.2",
             "dev": "DynamicDust s.r.o.",
-            "category": "Games"
-            "icon": "https://justkleo.github.io/gira/icons/IMG_9702.png"
+            "category": "Games",
+            "icon": "https://justkleo.github.io/gira/icons/IMG_9702.png",
             "bundleID": "com.dynamicdust.CharlieTheSteakHD"
         }
     ]
