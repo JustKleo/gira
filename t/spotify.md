@@ -5,6 +5,7 @@ Cosa comprende questa versione modificata?
 - Ascolto senza pubblicità
 - Skip illimitati
 - Testi delle canzoni infinite
+
 Funzioni come il download di canzoni, avviare una Jam o qualità dell'audio al massimo **NON** saranno mai disponibili perché queste funzionalità sono tutte server-sided.
 ## Installazione di Scarlet
 Scarlet è neccessario per scaricare file IPA esterni dell'App Store di Apple.
