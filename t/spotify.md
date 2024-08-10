@@ -18,6 +18,7 @@ Scarlet è neccessario per scaricare file IPA esterni dell'App Store di Apple.
 4. Premi `Apri` e `Installa` quando iPhone te lo chiede
 5. Vai sulle Impostazioni > Generali > VPN e gestione dispositivo e sotto `APP AZIENDALE` premi sull'unica (o quella apparsa) opzione, e premi il tasto blu e consenti.
     - Se è neccessario attivare la modalità sviluppo vai su Privacy e Sicurezza > Modalità Svluppo, attiva l'opzione e riavvia il telefono
+
 ## Installare Spotify Premium
 Una volta installato correttamente Scarlet sul tuo telefono puoi proseguire.
 1. Accedi all'app e accetta tutte le varie autorizzazioni
