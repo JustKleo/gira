@@ -9,7 +9,7 @@
             "bundleID": "com.spotify.client",
             "down": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.7/EeveeSpotify-4.7-8.9.64.ipa",
             "appstore": "com.spotify.client",
-            "changelog": "Fixed lyrics not appearing issue\n- Fixed Premium patching for recent versions; removed static method\n- Musixmatch romanization and translation now work simultaneously",
+            "changelog": "- Fixed lyrics not appearing issue\n- Fixed Premium patching for recent versions; removed static method\n- Musixmatch romanization and translation now work simultaneously",
             "version": "4.7",
             "description": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
             "name": "Eevvee Spotify",
