@@ -16,3 +16,5 @@ Per iniziare assicurati che hai Scarlet installato sul tuo iDevice. Se non l'hai
 2. Scegli la categoria delle app. Se vuoi vedere tutte le app premi `All Categories`.
 ## AltStore
 Supporto per AltStore in arrivo...
+## Social
+- [Canale Telegram](https://t.me/girarepo)
