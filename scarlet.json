@@ -18,6 +18,15 @@
     ],
     "Games": [
         {
+            "name": "Null's Brawl",
+            "down": "https://tempweb.nullsusercontent.com/ipa/brawl56.274_6422270a.ipa",
+            "version": "56.274",
+            "dev": "daniillnull",
+            "category": "Games",
+            "description": "Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.",
+            "bundleID": "nt.nb.ios"
+        },
+        {
             "name": "Charlie The Steak (iPhone)",
             "down": "https://archive.org/download/charlie-the-steak/Charlie%2C%20the%20Steak%201.2%20%28495%29%2064-bit%20644918861-838598092%20Cracked.ipa",
             "version": "1.2",
