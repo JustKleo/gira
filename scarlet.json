@@ -7,10 +7,10 @@
         {
             "category": "Music",
             "bundleID": "com.spotify.client",
-            "down": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.8/EeveeSpotify-4.8-8.9.66.ipa",
+            "down": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift4.9/EeveeSpotify-4.9-8.9.68.ipa",
             "appstore": "com.spotify.client",
-            "changelog": "- Fixed original lyrics colors",
-            "version": "4.8",
+            "changelog": "- Musixmatch source support for local files\n- Lyrics colors support for local files",
+            "version": "4.9",
             "description": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
             "name": "Eevvee Spotify",
             "dev": "asdfzxcvbn"
