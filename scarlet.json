@@ -19,12 +19,13 @@
     "Games": [
         {
             "name": "Null's Brawl",
-            "down": "https://tempweb.nullsusercontent.com/ipa/brawl56.274_6422270a.ipa",
-            "version": "56.274",
+            "down": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa",
+            "version": "57.325",
             "dev": "daniillnull",
             "category": "Games",
             "description": "Null's Brawl is a Brawl Stars private server with unlimited gems, gold and boxes. Play with friends on any brawler you want.",
-            "bundleID": "nt.nb.ios"
+            "bundleID": "nt.nb.ios",
+            "changelog": "- New Brawlers: Moe and Kenji\n- Trio showdown\n- Underwater creature event is not avaiable at the moment"
         },
         {
             "name": "Charlie The Steak (iPhone)",
