@@ -1,0 +1,222 @@
+/* CSS per i dispositivi col tema impostato sul scuro */
+
+body h1 {
+    font-size: 3rem;
+    margin-left: 15rem;
+    font-weight: bold;
+}
+
+body h2 {
+    font-size: 2rem;
+    margin-left: 15rem;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+body p {
+    margin-left: 15rem;
+}
+
+html {
+    background-color: #0f1215 !important;
+    margin-bottom: 5rem;
+}
+
+.navbar.bg-base-100.fixed {
+    background-color: rgb(29, 35, 42, 0.5);
+    backdrop-filter: blur(25px);
+    z-index: 999;
+}
+
+.btn.m-1 {
+    background-color: rgb(45, 50, 53, 0.5);
+}
+
+.chat.chat-start {
+    margin-left: 15rem;
+}
+
+.chat.chat-end {
+    margin-right: 15rem;
+}
+
+.collapse.collapse-plus.bg-base-200 {
+    width: 60rem ;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-left: 15rem;
+}
+
+button.btn.btn-primary {
+    margin-left: 15rem;
+    margin-top: 1rem;
+}
+
+ul.steps {
+    width: 60rem;
+    margin-left: 15rem;
+}
+
+.mockup-window {
+    width: 60rem;
+    margin-left: 15rem;
+    margin-top: 1rem;
+}
+
+.input {
+    margin-left: 15rem;
+    margin-top: 1rem;
+}
+
+.modal {
+    backdrop-filter: blur(5px);
+}
+
+button.btn.no-animation {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 15rem;
+    cursor: default;
+}
+
+button.btn.no-animation:hover {
+    background-color: #191e24;
+}
+
+ul.bg-base-100.rounded-t-none.p-2 {
+    width: 15rem;
+    margin-left: -10rem;
+    margin-top: 2rem;
+}
+
+.overflow-x-auto {
+    width: 60rem;
+    margin-left: 15rem;
+    margin-top: 1rem;
+}
+
+.join {
+    margin-top: 1rem;
+    margin-left: 15rem;
+}
+
+.card {
+    margin-right: 15rem;
+    margin-left: 15rem;
+    width: auto !important;
+    margin-top: 1rem;
+}
+
+.card h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card p {
+    margin: 0;
+}
+
+.carousel {
+    margin-left: 14rem;
+}
+
+.btn.btn-wide {
+    margin-left: 15rem;
+    margin-top: 1rem;
+}
+
+.w-12.rounded {
+    border-radius: 1rem;
+}
+
+/* CSS per i dispositivi col tema impostato sul chiaro */
+@media (prefers-color-scheme: light) {
+    html {
+        background-color: #cfd0d0 !important;
+    }
+
+    .navbar.bg-base-100.fixed {
+        background-color: rgb(159, 160, 161, 0.5);
+        backdrop-filter: blur(25px);
+        z-index: 999;
+    }
+}
+
+/* Smaller Mobile Devices (for screens smaller than 480px) */
+@media (max-width: 860px) {
+    body h1 {
+        margin-left: 1rem;
+        font-size: 2rem;
+        margin-right: 1rem;
+    }
+
+    body h2 {
+        margin-left: 1rem;
+        font-size: 1.5rem;
+        margin-right: 1rem;
+    }
+    
+    body p {
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    .collapse.collapse-plus.bg-base-200 {
+        width: auto;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+        margin-left: 1rem;
+        margin-right: 1rem;
+    }
+
+    .chat.chat-start {
+        margin-left: 1rem;
+    }
+
+    .chat.chat-end {
+        margin-right: 1rem;
+    }
+
+    button.btn.btn-primary {
+        margin-left: 1rem;
+        margin-top: 1rem;
+    }
+
+    ul.steps {
+        width: auto;
+        margin-left: 1rem;
+        margin-right: 2rem;
+    }
+    
+    .input {
+        margin-left: 1rem;
+        margin-top: 1rem;
+        margin-right: 1rem;
+    }
+
+    button.btn.no-animation {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        margin-left: 1rem;
+        cursor: default;
+    }
+
+    .overflow-x-auto {
+        width: auto;
+        margin-left: 1rem;
+        margin-top: 1rem;
+        margin-right: 1rem;
+    }
+
+    .join {
+        margin-left: 1rem;
+    }
+
+    .card {
+        margin-right: 1rem;
+        margin-left: 1rem;
+        width: auto !important;
+        margin-top: 1rem;
+    }
+}
