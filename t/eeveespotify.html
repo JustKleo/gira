@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gocciola</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="script.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/daisyui@4.12.10/dist/full.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Navbar Section -->
+    <div class="navbar bg-base-100 fixed">
+        <div class="flex-1">
+            <a class="btn btn-ghost text-xl"><b>Gocciola</b></a>
+        </div>
+        <div class="dropdown dropdown-end">
+            <div tabindex="0" role="button" class="btn m-1">Social</div>
+            <ul tabindex="0" class="dropdown-content menu bg-base-100 rounded-box z-[1] w-52 p-2 shadow">
+                <li><a href="https://discord.gg/7j3PjwaF3r">Server Discord</a></li>
+                <li><a href="https://paypal.me/gocciolareal">PayPal</a></li>
+                <li><a href="https://beacons.ai/gocciola">Altro...</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <h1 style="padding-top: 5rem;">Come scaricare Spotify moddato</h1>
+    <h2 style="margin-top: 0;">Compatibile solo per iPhone e iPad</h2>
+    <p>Questa modifica fa sì che Spotify creda che tu abbia un abbonamento Premium, garantendoti l'ascolto gratuito, proprio come Spotilife, e fornisce alcune funzionalità aggiuntive come testi personalizzati.</p>
+    <div role="alert" class="alert alert-info">
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          fill="none"
+          viewBox="0 0 24 24"
+          class="h-6 w-6 shrink-0 stroke-current">
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+        </svg>
+        <span>Scarlet non è sempre disponibile per colpa di Apple. Se Scarlet non dovesse funzionare attendi qualche giorno. Unisciti al nostro <u><a href="https://t.me/girarepo">canale Telegram</a></u> per sapere quando Scarlet torna online!</span>
+    </div>
+
+    <h2>1. Scarica Scarlet</h2>
+    <p>Iniziamo a scaricare Scarlet, ci servirà per scaricare Spotify moddato.</p>
+    <ul>
+        <li style="list-style-type: decimal;">Premi il tasto qui sotto per andare alla pagina di Scarlet</li>
+        <li style="list-style-type: decimal;">Scorri fino in fondo alla pagina e premi il tasto <div class="badge" style="background-color: #791222;">Install</div></li>
+        <li style="list-style-type: decimal;">In questa pagina premi <div class="badge" style="background-color: #ff3056;">Direct Install</div> e attendi 10 secondi, poi installa l'app</li>
+    </ul>
+    <a href="https://usescarlet.com/" target="_blank"><button class="btn btn-primary btn-wide" style="align-self: center;">Vai alla pagina di Scarlet</button></a>
+
+    <h2>2. Autorizza sviluppatore</h2>
+    <p>Quando provi ad avviare l'app ti uscirà un messaggio di errore "sviluppatore interno non autorizzato". Risolviamo questa cosa.</p>
+    <ul>
+        <li style="list-style-type: decimal;">Vai nelle impostazioni e naviga su <b>Generali > VPN e gestione dispositivo > App Aziendale (il tasto sotto) > Autorizza ...</b>, poi consenti e riavvia.</li>
+        <li style="list-style-type: decimal;">Il telefono si riavvierà in automatico, quando riavviato scorri verso l'alto e installa il profilo, quindi inserisci il tuo codice.</li>
+    </ul>
+
+    <h2>3. Aggiungi la Repo</h2>
+    <p>Siamo riusciti ad installare Scarlet! Ora aggiungiamo la repo così potremmo scaricare Spotify moddato.</p>
+    <ul>
+        <li style="list-style-type: decimal;">Apri Scarlet e consenti le varie notifiche, quindi premi il tasto al centro nella barra di navigazione (la barra in basso)</li>
+        <li style="list-style-type: decimal;">Premi sul tasto qui sotto per copiare il link della Repo</li>
+        <li style="list-style-type: decimal;">Quando sei nella pagina <b>Installed</b> premi il tasto <div class="badge">+</div> che si trova dopo la scritta <b>Repos</b>, quindi incolla il link e premi <div class="badge badge-primary">Add Repo</div></li>
+        <li style="list-style-type: decimal;">Premi il tasto <b>GIRA Repo</b> quando appare, quindi naviga in <b>Music > Eevee Spotify</b> e premi il tasto rosso</li>
+        <li style="list-style-type: decimal;">Aspetta che si completa l'installazione e quando richiesto premi sul tasto <div class="badge badge-primary">Installa</div></li>
+    </ul>
+    <button class="btn btn-primary btn-wide" style="align-self: center;" onclick="url()">Copia URL Repo</button>
+
+    <h2>Congratulazioni, c'è l'hai fatta! 🎉</h2>
+    <p>Ora non ti resta altro che aprire Spotify, entrare nel tuo account e goderti l'app! Unisciti al nostro <u><a href="https://t.me/girarepo">canale Telegram</a></u> per sapere quando l'app viene aggiornata, quindi segui tutti i passaggi partendo da 3.4.!</p>
+
+    <dialog id="copiatoModal" class="modal">
+        <div class="modal-box">
+            <h3 class="text-lg font-bold">Copiato!</h3>
+            <p class="py-4" style="margin: 0;">L'elemento è stato copiato negli appunti!</p>
+            <div class="modal-action">
+            <form method="dialog">
+                <button class="btn btn-neutral">Chiudi</button>
+            </form>
+            </div>
+        </div>
+    </dialog>
+</body>
+</html>
