@@ -7,10 +7,10 @@
         {
             "category": "Music",
             "bundleID": "com.spotify.client",
-            "down": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.1/EeveeSpotify-5.1-8.9.74.ipa",
+            "down": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa",
             "appstore": "com.spotify.client",
-            "changelog": "- French localization updated",
-            "version": "5.1",
+            "changelog": "Brazil and french localization updated",
+            "version": "5.2",
             "description": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
             "name": "Eevee Spotify",
             "dev": "asdfzxcvbn"
