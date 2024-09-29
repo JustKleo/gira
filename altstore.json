@@ -1,0 +1,42 @@
+{
+    "name": "GIRA Repo",
+    "identifier": "com.gira",
+    "sourceURL": "https://provenance-emu.com/apps.json",
+    "iconURL": "https://gocciolafr.github.io/gira/logo.jpg",
+    "subtitle": "Una vasta collezione di app utili per il tuo iDevice!",
+    "description": "Con GIRA potete esplorare un sacco di file IPA molto utili per il vostro iDevice! Esplora qui una vasta gamma di app gratuite come Spotify craccato, giochi non più disponibili e altro!\nCanale Telegram: https://t.me/girarepo",
+    "website": "https://gocciolafr.github.io/gira",
+    "tintColor": "#6b89a5",
+    "featuredApps": [
+        "com.spotify.client"
+    ],
+    
+    "apps": [
+        {
+            "name": "Eevee Spotify",
+            "bundleIdentifier": "com.spotify.client",
+            "developerName": "asdfzxcvbn",
+            "subtitle": "A tweak to get Spotify Premium for free, just like Spotilife",
+            "version": "5.2",
+            "versionDate": "2024-09-18T18:27:00+02:00",
+            "versionDescription": "Brazil and french localization updated",
+            "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa",
+            "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+            "iconURL": "https://gocciolafr.github.io/gira/icons/unnamed.png",
+            "tintColor": "#1ed760",
+            "size": 77010038
+        }
+    ],
+
+    "news": [
+        {
+            "title": "Siamo sbarcati su AltStore!",
+            "identifier": "1",
+            "caption": "Con AltStore potete scaricare le nostre app senza che la Apple blocca le app! Iniziate subito a provarlo scaricando la versione craccata di Spotify, sempre aggiornata!",
+            "date": "2024-09-29T23:31:36+02:00",
+            "appID": "com.spotify.client",
+            "tintColor": "6b89a5",
+            "notify": true
+        }
+    ]
+}
