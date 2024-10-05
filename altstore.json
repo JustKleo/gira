@@ -27,6 +27,11 @@
                     "localizedDescription": "Brazil and french localization updated",
                 }
             ],
+            "version": "8.9.76",
+            "date": "2024-09-18T18:27:00+02:00",
+            "size": 77010038,
+            "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa",
+            "versionDescription": "Brazil and french localization updated",
             "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
             "iconURL": "https://gocciolafr.github.io/gira/icons/unnamed.png",
             "tintColor": "#1ed760"
