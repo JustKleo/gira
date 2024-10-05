@@ -17,14 +17,19 @@
             "bundleIdentifier": "com.spotify.client",
             "developerName": "asdfzxcvbn",
             "subtitle": "A tweak to get Spotify Premium for free, just like Spotilife",
-            "version": "8.9.76",
-            "versionDate": "2024-09-18T18:27:00+02:00",
-            "versionDescription": "Brazil and french localization updated",
-            "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa",
+            "versions": [
+                {
+                    "version": "8.9.76",
+                    "buildVersion": "897600516"
+                    "date": "2024-09-18T18:27:00+02:00",
+                    "size": 77010038,
+                    "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.2/EeveeSpotify-5.2-8.9.76.ipa",
+                    "localizedDescription": "Brazil and french localization updated",
+                }
+            ],
             "localizedDescription": "This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
             "iconURL": "https://gocciolafr.github.io/gira/icons/unnamed.png",
-            "tintColor": "#1ed760",
-            "size": 77010038
+            "tintColor": "#1ed760"
         }
     ],
 
