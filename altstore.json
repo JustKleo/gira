@@ -25,7 +25,7 @@
                     "size": 80500000,
                     "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.3/EeveeSpotify-5.3-8.9.78.ipa",
                     "localizedDescription": "- Aggiunta like dei canzoni alla pagina dell’artista\n- Migliorata l’opzione del reset dei dati (ora cancella anche la libreria e cache)\n- Configurazione scaricata aggiornata; risolti gli arresti anomali dell'app quando si clicca sui tre puntini nella pagina del brano\n- Aggiornato swift-protobuf alla versione 1.28.1 e Swift alla versione 6 (Xcode 16.0)\n- Risolti i crash del tasto Scarica, migliorata la logica di aggancio\n- PetitLyrics è ora disponibile per tutti\n- Aggiustato linguaggio per Cinese semplificato, Cinese tradizionale e Vietnamita",
-                },
+                }
                 {
                     "version": "8.9.76",
                     "buildVersion": "897600516",
